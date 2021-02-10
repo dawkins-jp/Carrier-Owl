@@ -1,11 +1,16 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:q-bio.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        demethylation: 2
+        regeneration: 3
+        planaria: 5
+        flatworm: 4
+        whole-body regeneration: 5
+        neoblast: 1
+        HRJD: 10
+        Jmjc: 3
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 3
