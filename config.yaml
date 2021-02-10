@@ -2,15 +2,10 @@
 subject: 'cat:q-bio.*'
 
 # 検索キーワード
-keywords:
-        demethylation: 2
+keywords: 
         regeneration: 3
-        planaria: 5
-        flatworm: 4
-        whole-body regeneration: 5
-        neoblast: 1
-        HRJD: 10
+        planaria: 3
         Jmjc: 3
 
 # 通知の閾値
-score_threshold: 3
+score_threshold: 0
